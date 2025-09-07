@@ -1,2 +1,3 @@
 print('Babloo');
-print('Maniraj');
+print("Maniraj Patha");
+print("Minnu");
